@@ -3,7 +3,6 @@
 
 🛠&nbsp; Tools in my toolbox...
 
-🚀&nbsp; Jamstack<br />
 🚀&nbsp; ReactJS/GatsbyJS/NextJS<br />
 🚀&nbsp; Sass<br />
 🚀&nbsp; Framer Motion<br />
