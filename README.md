@@ -6,6 +6,7 @@
 🚀&nbsp; ReactJS/GatsbyJS/NextJS<br />
 🚀&nbsp; Sass<br />
 🚀&nbsp; Framer Motion<br />
+🚀&nbsp; Locomotive Scroll<br />
 🚀&nbsp; Sanity.io<br />
 🚀&nbsp; Prismic<br />
 
