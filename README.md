@@ -1,14 +1,7 @@
 ## Tyler Brown // Front-End Engineer in Orlando. &nbsp;🧑🏼‍💻☕️
-#### I convert caffeine into useable, performant, accessible UIs with clean, maintainable code.
+#### <i>I convert caffeine into useable, performant, accessible UIs with clean, maintainable code.</i>
 
-🛠&nbsp; Tools in my toolbox...
-
-🚀&nbsp; ReactJS/GatsbyJS/NextJS<br />
-🚀&nbsp; Sass<br />
-🚀&nbsp; Framer Motion<br />
-🚀&nbsp; Locomotive Scroll<br />
-🚀&nbsp; Sanity.io<br />
-🚀&nbsp; Prismic<br />
+I consider myself to be a Javascript Developer and spend my days writing React and Typescript. My work is currently mostly focused within Jamstack, namely Gatsby/NextJS and Sanity.
 
 <a href="https://linkedin.com/in/tylerbrowndev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/t_brown11b"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
