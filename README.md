@@ -1,5 +1,5 @@
 ## Tyler Brown // Front-End Engineer in Orlando. &nbsp;🧑🏼‍💻☕️
-#### <i>I convert caffeine into useable, performant, accessible UIs with clean, maintainable code.</i>
+#### <i>I build useable, performant, accessible UIs with clean, maintainable code.</i>
 
 I consider myself to be a JavaScript Developer and spend my days writing React and TypeScript. My work is currently mostly focused within Jamstack, namely Gatsby, NextJS, and Sanity.
 
