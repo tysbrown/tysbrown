@@ -6,6 +6,7 @@ const tyler = {
   professional: {
     languages: ["javascript", "typescript"],
     frameworks: ["react", "gatsby", "nextJS", "jest"],
+    styling: ["sass", "tailwind", "emotion", "styled components", "twin macro"],
     architecture: ["jamstack", "progressive web applications", "single page applications", "serverless"],
     cms: ["sanity", "prismic", "butterCMS"],
     currentlyLearning: {
