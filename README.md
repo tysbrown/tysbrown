@@ -1,5 +1,5 @@
 # Tyler Brown // Software Engineer in Orlando. &nbsp;🧑🏼‍💻☕️
-#### I spend my days writing React and TypeScript.
+#### I currently spend my days writing React and TypeScript.
 
 ```javascript
 const tyler = {
