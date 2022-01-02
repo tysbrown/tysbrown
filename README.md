@@ -1,4 +1,4 @@
-# Tyler Brown // JavaScript Engineer in Orlando. &nbsp;🧑🏼‍💻☕️
+# Tyler Brown // Software Engineer in Orlando. &nbsp;🧑🏼‍💻☕️
 #### I spend my days writing React and TypeScript.
 
 ```javascript
