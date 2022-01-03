@@ -16,7 +16,7 @@ const tyler = {
   },
   personal: {
     nonTechInterests: ["gaming", "tabletopRPG", "writing", "weightlifting", "shooting"],
-    techInterests: ["coding", "networking", "cybersecurity"],
+    techInterests: ["front end", "networking"],
     background: ["army", "active duty 2011 to 2015", "infantryman", "team leader"]
   }
 }
