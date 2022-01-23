@@ -1,4 +1,9 @@
-# Tyler Brown // Software Engineer in Orlando. &nbsp;🧑🏼‍💻☕️
+# Tyler Brown // Software Engineer in Orlando. &nbsp; ![image](https://user-images.githubusercontent.com/29802311/150701465-3f80a0d8-4e3e-4f5c-8fda-a039fa075a3a.png)![image](https://user-images.githubusercontent.com/29802311/150701498-ec3e0e3a-ee44-411a-97e2-33c87d0b3d7c.png)
+
+
+
+
+
 #### I currently spend my days writing React and TypeScript.
 
 ```javascript
