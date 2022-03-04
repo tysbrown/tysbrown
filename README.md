@@ -12,7 +12,7 @@ const tyler = {
     cms: ["sanity", "prismic", "butterCMS"],
     currentlyLearning: {
       frameworks: "express",
-      databases: "postgreSQL"
+      databases: "postgreSQL", "SQLServer"
     }
   },
   personal: {
