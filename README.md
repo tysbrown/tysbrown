@@ -1,6 +1,6 @@
 # Tyler Brown // Software Engineer in Orlando.
 
-#### JavaScript Engineer who spends his days writing React and TypeScript.
+Full-Stack JavaScript Engineer who spends his days writing React and TypeScript. I'm capable on the back-end but specialize in building useable, performant, and accessible UIs on the front-end.
 
 ```javascript
 const tyler = {
