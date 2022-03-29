@@ -8,6 +8,7 @@ const tyler = {
     languages: ["javascript", "typescript"],
     frameworks: ["react", "gatsby", "nextJS", "jest"],
     styling: ["sass", "tailwind", "emotion", "styled components", "twin macro"],
+    animation: ["framer motion", "motion one"],
     architecture: ["jamstack", "progressive web applications", "single page applications", "serverless"],
     cms: ["sanity", "prismic", "butterCMS"],
     currentlyLearning: {
