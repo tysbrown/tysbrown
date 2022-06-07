@@ -6,20 +6,15 @@ JavaScript Engineer who spends his days writing React and TypeScript. I build us
 const tyler = {
   professional: {
     languages: ["javascript", "typescript"],
-    frameworks: ["react", "gatsby", "nextJS", "jest"],
+    frontEndFrameworks: ["react", "gatsby", "nextJS", "11ty"],
+    backEndFrameworks: ["express"],
+    databases: ["postgresql", "sqlServer"],
+    infrastructure: ["aws serverless framework"],
     styling: ["sass", "tailwind", "emotion", "styled components", "twin macro"],
     animation: ["framer motion", "motion one"],
-    architecture: ["jamstack", "progressive web applications", "single page applications", "serverless"],
-    cms: ["sanity", "prismic", "butterCMS"],
-    currentlyLearning: {
-      frameworks: "express",
-      databases: "postgreSQL", "sqlServer",
-      infrastructure: "aws serverless framework"
-    }
-  },
-  personal: {
-    nonTechInterests: ["gaming", "tabletopRPG", "writing", "weightlifting", "shooting"],
-    militaryBackground: ["army infantry", "rifleman", "team leader"]
+    testing: ["jest", "react-testing-library"],
+    architecture: ["jamstack", "single page applications", "serverless"],
+    cms: ["sanity", "prismic"]
   }
 }
 ```
