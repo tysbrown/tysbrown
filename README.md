@@ -1,6 +1,6 @@
-# Tyler Brown // Software Engineer in Orlando.
+# Tyler Brown // Software Engineer // JavaScript/TypeScript
 
-I'm a JavaScript/TypeScript Engineer first and foremost and I spend my days writing React, Node, and GraphQL across the full stack. I build useable, performant, and accessible UIs integrated with maintainable, scalable, and efficient infrastructure.
+I'm a JavaScript/TypeScript Engineer first and foremost and I spend my days using React, Node.js, and GraphQL. I build useable, performant, and accessible UIs integrated with maintainable, scalable, and efficient infrastructure.
 
 ```javascript
 const tyler = {
