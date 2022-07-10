@@ -1,4 +1,4 @@
-# Tyler Brown // Software Engineer // JavaScript/TypeScript
+# Tyler Brown // Software Engineer (JavaScript/TypeScript)
 
 I'm a JavaScript/TypeScript Engineer first and foremost and I spend my days using React, Node.js, and GraphQL. I build useable, performant, and accessible UIs integrated with maintainable, scalable, and efficient infrastructure.
 
