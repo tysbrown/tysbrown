@@ -6,16 +6,14 @@ I'm a JavaScript/TypeScript Engineer with experience using React, Node.js, and G
 const tyler = {
   professional: {
     languages: ["javascript", "typescript"],
-    frontEndFrameworks: ["react", "gatsby", "nextJS", "11ty"],
-    backEndFrameworks: ["express"],
-    databases: ["postgresql", "sqlServer"],
+    frameworks: ["react", "gatsby", "nextJS", "remix", "express"],
+    databases: ["postgresql"],
     api: ["graphQL", "REST"],
     infrastructure: ["aws serverless framework"],
-    styling: ["sass", "tailwind", "emotion", "styled components", "twin macro"],
-    animation: ["framer motion", "motion one"],
+    styling: ["sass/scss", "tailwind", "emotion", "twin macro"],
+    animation: ["framer motion"],
     testing: ["jest", "react-testing-library"],
-    architecture: ["jamstack", "single page applications", "serverless"],
-    cms: ["sanity", "prismic"]
+    cms: ["sanity"]
   }
 }
 ```
