@@ -1,6 +1,6 @@
 # Tyler Brown // Software Engineer
 
-I'm a JavaScript/TypeScript Engineer with experience using React, Node.js, and GraphQL in production. I specialize in front-end engineering and building usable, performant, accessible UIs.
+I'm a JavaScript/TypeScript Engineer with experience using React, Node, and GraphQL. I specialize in front-end engineering and building usable, performant, accessible UIs.
 
 ```javascript
 const tyler = {
