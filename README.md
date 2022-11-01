@@ -6,13 +6,12 @@ I'm a full-stack engineer working primarily with TypeScript with React, Node, an
 const tyler = {
   professional: {
     languages: ["javascript", "typescript"],
-    frameworks: ["react", "gatsby", "nextJS", "remix", "express"],
-    databases: ["postgresql"],
+    jsFrameworks: ["react", "nextJS", "remix", "express/node"],
+    databases: ["postgresql", "mongoDB"],
     api: ["graphQL", "REST"],
-    infrastructure: ["aws serverless framework"],
-    styling: ["sass/scss", "tailwind", "emotion", "twin macro"],
+    styling: ["sass/scss", "tailwind", "styled components"],
     animation: ["framer motion"],
-    testing: ["jest", "react-testing-library"],
+    testing: ["jest", "react-testing-library", "playwright"],
     cms: ["sanity"]
   }
 }
