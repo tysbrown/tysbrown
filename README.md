@@ -1,6 +1,6 @@
-# Tyler Brown // Software Engineer
+# Tyler Brown // Full-Stack Software Engineer
 
-I'm a JavaScript/TypeScript Engineer with experience using React, Node, and GraphQL. I specialize in front-end engineering and building usable, performant, accessible UIs.
+I'm a full-stack engineer working primarily with TypeScript with React, Node, and GraphQL. I specialize in front-end engineering and building usable, performant, accessible UIs, but I work in both the front and back in my day to day.
 
 ```javascript
 const tyler = {
