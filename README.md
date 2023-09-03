@@ -1,17 +1,19 @@
 # Tyler Brown // Software Engineer
 
-I'm a full-stack engineer working primarily with TypeScript, React, Node, and GraphQL. Writing software is my passion and the web is my domain.
+Full Stack SWE working primarily with TypeScript, React, Node, and GraphQL.
+
+Functional programming is my jam. The web is my domain. Building for it is my passion and expertise.
 
 ```javascript
 const tyler = {
   languages: ["javascript", "typescript"],
-  jsFrameworks: ["react", "next", "express/node"],
-  data: ["postgreSQL", "mongoDB", "prisma"],
+  frameworksAndTooling: ["react", "next", "vite", "remix", "express"],
+  db: ["postgres", "mongoDB", "prisma"],
   api: ["graphQL", "REST"],
-  styling: ["sass/scss", "tailwind", "styled-components"],
+  styling: ["sass/scss", "tailwind", "emotion"],
   animation: ["framer-motion"],
   testing: ["jest", "react-testing-library", "playwright"],
-  cms: ["sanity.io"]
+  cms: ["sanity"]
 }
 ```
 
