@@ -1,4 +1,4 @@
-# Tyler Brown // Software Engineer
+### Tyler Brown // Full Stack SWE
 
 Full Stack SWE working primarily with TypeScript, React, Node, and GraphQL.
 
