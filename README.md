@@ -2,7 +2,7 @@
 
 Full Stack SWE working primarily with TypeScript, React, Node, and GraphQL.
 
-Functional programming is my jam. The web is my domain. Building for it is my passion and expertise.
+Functional programming is my jam. The web is my domain. Building for it is my life.
 
 ```javascript
 const tyler = {
