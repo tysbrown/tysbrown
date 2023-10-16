@@ -1,5 +1,3 @@
-### Tyler Brown // Full Stack SWE
-
 Shipping code primarily in TypeScript.
 Functional programming is my jam.
 The web is my domain.
