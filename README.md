@@ -1,8 +1,8 @@
 ### Tyler Brown // Full Stack SWE
 
-Full Stack SWE working primarily with TypeScript, React, Node, and GraphQL.
-
-Functional programming is my jam. The web is my domain. Building for it is my life.
+Shipping code primarily in TypeScript.
+Functional programming is my jam.
+The web is my domain.
 
 ```javascript
 const tyler = {
