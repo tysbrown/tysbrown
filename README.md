@@ -1,4 +1,6 @@
-Shipping code primarily in TypeScript.
+### I ship code.
+
+Primarily in TypeScript.
 Functional programming is my jam.
 The web is my domain.
 
