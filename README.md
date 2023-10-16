@@ -6,7 +6,7 @@ Functional programming is my jam.
 
 The whole web is my domain. Server, client, and database.
 
-Slave to React, Node, and GraphQL.
+Currently a slave to React, Node, and GraphQL.
 
 ```javascript
 const tyler = {
