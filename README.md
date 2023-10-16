@@ -1,18 +1,22 @@
 ### I ship code.
 
 Primarily in TypeScript.
+
 Functional programming is my jam.
-The web is my domain.
+
+The whole web is my domain. Server, client, and database.
+
+Slave to React, Node, and GraphQL.
 
 ```javascript
 const tyler = {
   languages: ["javascript", "typescript"],
-  frameworksAndTooling: ["react", "next", "vite", "remix", "express"],
-  db: ["postgres", "mongoDB", "prisma"],
+  frameworks: ["react", "next", "vite", "remix", "express"],
+  databases: ["postgresql", "mongoDB", "prisma"],
   api: ["graphQL", "REST"],
-  styling: ["sass/scss", "tailwind", "emotion"],
+  styles: ["sass/scss", "tailwind", "emotion"],
   animation: ["framer-motion"],
-  testing: ["jest", "react-testing-library", "playwright"],
+  testing: ["jest", "react-testing-library", "cypress"],
   cms: ["sanity"]
 }
 ```
