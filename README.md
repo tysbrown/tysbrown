@@ -1,4 +1,4 @@
-### I just ship code. Primarily in TypeScript.
+### I ship code. Primarily in TypeScript.
 
 Functional programming is my jam.
 
