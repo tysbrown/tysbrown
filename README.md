@@ -1,12 +1,10 @@
 ### I ship code. Primarily in TypeScript.
 
-Functional programming is my jam.
-
 The web is my domain. 
 
 I love building features end-to-end. Client, server, and database.
 
-Currently a slave to React, Node, and GraphQL.
+React, Node, and GraphQL enthusiast.
 
 ```javascript
 const tyler = {
