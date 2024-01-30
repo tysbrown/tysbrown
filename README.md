@@ -1,18 +1,19 @@
 ### I ship code. Primarily in TypeScript.
 
-The web is my domain. 
+The web is my domain.
 
-I love building features end-to-end. Client, server, and database.
+I love building features end-to-end, i.e. client, server, and database.
 
 React, Node, and GraphQL enthusiast.
 
 ```javascript
 const tyler = {
-  languages: ["javascript", "typescript"],
-  frameworks: ["react", "next", "vite", "remix", "express"],
-  databases: ["postgresql", "mongoDB", "prisma"],
+  languages: ["javascript", "typescript", "sql"],
+  libraries: ["react", "redux", "zustand"],
+  frameworks: ["next", "remix", "express"],
+  databases: ["postgreSQL", "mongoDB", "prisma"],
   api: ["graphQL", "REST"],
-  styles: ["tailwind", "emotion", "scss"],
+  styles: ["tailwind", "emotion", "sass"],
   testing: ["jest", "react-testing-library", "playwright"],
   cms: ["sanity"]
 }
