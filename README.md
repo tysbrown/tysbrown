@@ -1,8 +1,6 @@
 ### I ship code. Primarily in TypeScript.
 
-The web is my domain.
-
-I love building features end-to-end, i.e. client, server, and database.
+The web is my domain. Client, server, database, and infrastructure.
 
 React, Node, and GraphQL enthusiast.
 
