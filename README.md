@@ -1,7 +1,7 @@
-### I ship code. Primarily in TypeScript.
+### I ship code.
 
-The web is my domain. Client, server, database, and infrastructure.
+Across the full stack, primarily in TypeScript but also in Rust.
 
-React, Node, and GraphQL enthusiast.
+The web is my domain, be it frontend, backend, database, or infra. I'm a lifelong hacker and World Wide Web enthusiast.
 
 <a href="https://linkedin.com/in/tylerbrowndev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
