@@ -1,7 +1,7 @@
-Lifelong hacker and web enthusiast.
+Lifelong hacker and world wide web enthusiast.
 
-Full stack TypeScript and GraphQL is my jam. End to end type safety is my final form.
+Software Engineer in the healthcare industry.
 
-CSS aficionado, and supporter of the word "aficionado."
+Full stack TypeScript and GraphQL is my jam. End-to-end type safety is a virtue.
 
 <a href="https://linkedin.com/in/tylerbrowndev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
