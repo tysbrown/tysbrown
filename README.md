@@ -1,7 +1,7 @@
-Lifelong hacker and world wide web enthusiast.
+### 👋🏻 Hello, I'm Tyler
 
-Software Engineer in the healthcare industry.
+Lifelong hacker, world wide web enthusiast, and full stack engineer.
 
-Full stack TypeScript and GraphQL is my jam. End-to-end type safety is a virtue.
+I primarily ship TypeScript, React, Node, GraphQL, and SQL.
 
-<a href="https://linkedin.com/in/tylerbrowndev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tylerbrowndev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80px" /></a>
